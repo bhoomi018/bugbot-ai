@@ -1,0 +1,4 @@
+# Ignore node module dir
+node_modules
+
+package-lock.json
